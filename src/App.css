@@ -1,0 +1,20 @@
+body {
+    background-color: #e6ecef;
+}
+
+.header svg {
+    height: 40px;
+    padding: 5px;
+}
+
+.cross {
+    float: right;
+    margin-right: 20px;
+    border-radius: 100px;
+    border-color: green;
+    outline: none;
+}
+
+.main-heading {
+    font-weight: 800;
+}
